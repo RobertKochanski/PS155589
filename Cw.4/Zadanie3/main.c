@@ -7,7 +7,7 @@ void foo(int *a, int *b){
 	*b = aa;
 }
 
-int main(int argc, char *argv[]) {
+int main() {
 	
 	int a=20, b=15;
 	foo(&a, &b);

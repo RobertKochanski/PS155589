@@ -5,7 +5,7 @@ int *foo(unsigned int n){
 	return malloc(n*sizeof(int));
 }
 
-int main(int argc, char *argv[]) {
+int main() {
 	
 	printf("%p", foo(5));
 	

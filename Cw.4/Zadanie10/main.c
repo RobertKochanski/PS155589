@@ -5,7 +5,7 @@ double* foo(){
 	return malloc(sizeof(double));
 }
 
-int main(int argc, char *argv[]) {
+int main() {
 	
 	double a=5;
 	printf("a= %d\n", foo(a));

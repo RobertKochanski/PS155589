@@ -8,7 +8,7 @@ int mniejsza(int *a, int *b){
 	return *a;
 }
 
-int main(int argc, char *argv[]) {
+int main() {
 
 	int x=20,y=15;
 	

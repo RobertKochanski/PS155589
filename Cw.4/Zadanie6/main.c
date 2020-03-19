@@ -5,7 +5,7 @@ void foo(int n, int *w){
 	*w=n;
 }
 
-int main(int argc, char *argv[]) {
+int main() {
 
 	int x=4,y=5;
 	foo(x,&y);
