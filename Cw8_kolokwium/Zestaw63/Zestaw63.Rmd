@@ -1,0 +1,40 @@
+---
+title: "Zestaw 54"
+lang: pl
+output:
+  word_document: default
+  pdf_document: default
+---
+
+
+1. W folderze Debug63 znajduje się projekt z kodem w języku C. W pliku main.c w niektórych linijkach są komentarze. Twoim zadaniem jest wpisanie wartości odpowiednich zmiennych po wykonaniu konkretnej linii kodu.
+
+*Punktacja: 1 pkt za każdą poprawną linijkę, łącznie 7 pkt.*
+
+2. W folderze Popraw63 znajduje się kod w języku C, który nie spełnia zasad kompilacji. Popraw kod modyfikując dokładnie 1 linijkę tak, aby się kompilował. Zabronioną operacją jest komentowanie kodu. Do zmodyfikowanych linii zaliczają się zarówno linie istotne ze względu na kompilację jak i te nieistotne (np. dodanie spacji przed operatorem może być operacją nieistotną ze względu na kompilację, ale będzie liczone jako zmodyfikowana linijka).
+
+*Punktacja: 7 pkt.*
+
+3. Napisać program, który czyta z wejścia liczby całkowite aż do napotkania liczby ujemnej,
+a następnie wyświetla średnią ze wczytanych liczb (z pominięciem ostatniej,
+ujemnej liczby, średnia ma być zaokrąglona do dwóch miejsc po przecinku). 
+
+
+*Punktacja: 8 pkt.*
+
+4. Napisz funkcję, która otrzymuje trzy argumenty:
+
+* wskaźnik na funkcję o jednym argumencie typu `float` zwracające wartość typu `float`,
+* dwie wartości `x` i `y` typu `float`.
+
+Funkcja ma zwrócić 2 jeśli wartość wartości funkcji przekazanej jako parametry w punkcie `x*x` i `y*y` są sobie równe oraz ma zwracać -2 w przeciwnym wypadku. Stwórz dwa przypadki testowe dla funkcji, aby funkcja zwróciła obie możliwe wartości.
+
+*Punktacja: 8 pkt.*
+
+5. Napisz program, który wyświetla na konsoli sumę liczb parzystych od 2 do 44. W programie wykorzystaj samodzielnie napisaną funkcję rekurencyjną.
+
+*Punktacja: 10 pkt.*
+
+6. Napisz funkcję, która otrzymuje cztery argumenty: dodatnią liczbę całkowitą $m$, liczbę całkowitą $n$ oraz dwie $m$-elementowe tablice `tab1` i `tab2` o elementach typu `int`. Funkcja ma zwrócić liczbę ile podzielnych przez $n+1$ jest w tablicach `tab1` i `tab2`. Stwórz dwa przypadki testowe dla funkcji. 
+
+*Punktacja: 10 pkt.*
