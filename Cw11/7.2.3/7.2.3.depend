@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589301676 source:d:\studia\strukturalne\cw11\7.2.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
