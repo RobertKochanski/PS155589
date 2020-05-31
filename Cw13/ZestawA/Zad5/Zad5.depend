@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590951513 source:d:\studia\strukturalne\cw13\zestawa\zad5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

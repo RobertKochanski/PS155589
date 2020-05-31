@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589702997 source:c:\users\piotrek\documents\cbprojekty\debuga\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1590586625 source:d:\studia\strukturalne\cw13\zestawa\debuga\main.c
+	<stdio.h>
+	<stdlib.h>
+

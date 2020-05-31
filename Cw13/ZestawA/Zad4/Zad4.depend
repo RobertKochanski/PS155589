@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1590590076 source:d:\studia\strukturalne\cw13\zad4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1590950345 source:d:\studia\strukturalne\cw13\zestawa\zad4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
