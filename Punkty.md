@@ -1,4 +1,4 @@
-Stan na dzień: 26.05.2020 12:27
+Stan na dzień: 31.05.2020 14:37
 
 | Lista 1 | Lista 2 | Lista 3 | Lista 4 | Lista 5 |
 |---|---|---|---|---|
@@ -8,8 +8,8 @@ Stan na dzień: 26.05.2020 12:27
 |---|---|---|---|---|
 | 1,5 pkt |  2 pkt | 48 pkt | 2 pkt | 2pkt |
 
-|Lista 11| Lista 12|
-|---|---|
-| 2 pkt | brak |
+|Lista 11| Lista 12|lista 13|
+|---|---|---|
+| 2 pkt | brak | brak |
 
 suma: 64,5 pkt
