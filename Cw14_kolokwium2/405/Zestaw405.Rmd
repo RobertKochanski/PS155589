@@ -1,0 +1,50 @@
+---
+title: "Zestaw 405"
+lang: pl
+output:
+  word_document: default
+  pdf_document: default
+---
+
+
+1. W folderze Debug405 znajduje się projekt z kodem w języku C. W pliku main.c w niektórych linijkach są komentarze. Twoim zadaniem jest wpisanie wartości odpowiednich zmiennych po wykonaniu konkretnej linii kodu. Dopisanie nowych linijek i instrukcji poza komentarzami będzie powodowało 0 pkt. Adresy muszą obowiązkowo być w systemie szesnastkowym.
+
+*Punktacja: 7 pkt.*
+
+2. Napisz funkcję, która dostaje w argumencie napis. Funkcja ma zwrócić znak, będący małą literą, który występuje w napisie jako pierwszy od lewej. Jeśli napis nie zawiera małych liter, funkcja ma zwrócić znak zerowy. Stwórz przypadek testowy.
+
+*Punktacja: 8 pkt.*
+
+Przykład: Dla napisu `"WERht23"` funkcja ma zwrócić znak `'h'`. Dla napisu `"877773"` funkcja ma zwrócić znak `'\0'`. Stwórz przypadek testowy.
+
+3. Napisz funkcję, której argumentem jest dwuwymiarowa tablica tablic i jej wymiary $n$ i $m$. Funkcja ma zwrócić sumę kwadratów elementów znajdujących się na głównej przekątnej tablicy. Stwórz przypadek testowy.
+
+Przykład: dla poniższej tablicy ma wyjść: $2^2+8^2+(-2)^2=...$
+
+| | | | |
+|---|---|---|---|
+| 2 | 3| -2 | 8 |
+| -1 | 8 | -4 | 3|
+| 3| 5| -2 | -9 |
+
+
+*Punktacja: 12 pkt.*
+
+4. Stwórz unię `Test` przechowującą dwa pola: `a` typu `int` i `b` typu `float`. Stwórz program zawierający tablicę 6 elementów typu `Test`. Wypisz na konsoli zawartość tablicy.
+
+
+*Punktacja: 8 pkt.*
+
+5. Napisz funkcję, która porównuje dwie listy z głową o elementach typu:
+
+```c
+struct element {
+    int x;
+    struct element * next;
+};
+```
+
+i zwraca 1 jeśli średnia na obu listach jest równa oraz 0 w pozostałych przypadkach. Stwórz jeden przypadek testowy.
+
+
+*Punktacja: 15 pkt.*

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591116209 source:d:\studia\strukturalne\cw14_kolokwium2\405\405\zad5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
