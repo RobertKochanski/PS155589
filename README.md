@@ -1,1 +1,1 @@
-# PS155589
+# Programowanie Strukturalne
